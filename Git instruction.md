@@ -43,4 +43,5 @@ git config --global user.email ваша почта@example.com
 ~~~
 Далее коммитим данный текст.
 
+## 10. Необходимость ветвей в Git
 
